@@ -1,0 +1,25 @@
+{
+  "author": "David Ruiz <wupsbr@gmail.com>",
+  "name": "galileo-gpio",
+  "description": "A simple node.js-based GPIO helper for the Intel Galileo",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:wupsbr/galileo-gpio.git"
+  },
+  "homepage": "https://github.com/wupsbr/galileo-gpio",
+  "main": "./galileo-gpio",
+  "bugs": {"url": "https://github.com/wupsbr/galileo-gpio/issues"},
+  "tags": ["intel", "galileo", "gpio", "simple"],
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "1.x",
+    "should": "1.x"
+  },
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  },
+  "scripts": {
+  }
+}
