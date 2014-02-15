@@ -12,12 +12,9 @@ gpio.open(27, "output", function(err) {		// Open pin 27 for output
 	});
 });
 ```
+## Under Development
 
-## Unmaintained
-
-This project is unmaintained, and is up for adoption. If anyone wants to take over the development of this project, please drop me a line, and we'll take it from there. Another way to help would be to review the pull requests and test them on a Intel Galileo for correctness.
-
-## About the pin configuration
+This project is under development right now and isn't working yet. Soon it's finished I will update this README.
 
 
 ## Installation
